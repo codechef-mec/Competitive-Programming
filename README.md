@@ -18,4 +18,4 @@ Instructions on how to fork and clone a repository can be found [here](https://h
 Once you've got a working copy of the repository on your system, make sure you work on your solutions in a new branch and keep your master branch clean of any changes from the main repository. [Instructions for branching](https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html) (Follow the instructions for branching your repository locally).
 
 
-Delete your branch once you've finished the current question and always make sure your master branch is [in sync with the upstream](https://help.github.com/en/articles/syncing-a-fork)
+Delete your branch once the pull request has been merged. always make sure your master branch is [in sync with the upstream](https://help.github.com/en/articles/syncing-a-fork)
